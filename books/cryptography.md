@@ -1,0 +1,42 @@
+# Cryptography — Reading List
+
+34 titles. Each links to its catalogue entry on Open Library, where you can find legitimate copies (buy, borrow, or read where the author/publisher offers it free).
+
+[← Back to index](../README.md)
+
+---
+
+- [A Deep Learning-Based Action Recommendation Model for Cryptocurrency Profit Maximization](https://openlibrary.org/search?q=A+Deep+Learning-Based+Action+Recommendation+Model+for+Cryptocurrency+Profit+Maximization)
+- [A Graduate Course in Applied Cryptography](https://openlibrary.org/search?q=A+Graduate+Course+in+Applied+Cryptography)
+- [A Introduction to Modern Cryptography](https://openlibrary.org/search?q=A+Introduction+to+Modern+Cryptography)
+- [ADVANCED ENCRYPTION STANDARD](https://openlibrary.org/search?q=ADVANCED+ENCRYPTION+STANDARD)
+- [An Intensive Introduction to Cryptography](https://openlibrary.org/search?q=An+Intensive+Introduction+to+Cryptography)
+- [An Introduction to Cryptography, Second Edition](https://openlibrary.org/search?q=An+Introduction+to+Cryptography%2C+Second+Edition)
+- [Applied Cryptography 2nd Edition](https://openlibrary.org/search?q=Applied+Cryptography+2nd+Edition)
+- [Cascade Ciphers The Importance of Being First](https://openlibrary.org/search?q=Cascade+Ciphers+The+Importance+of+Being+First)
+- [Cracking Codes with Python An Introduction to Building and Breaking Ciphers](https://openlibrary.org/search?q=Cracking+Codes+with+Python+An+Introduction+to+Building+and+Breaking+Ciphers)
+- [Cryptocurrencies and future financial crime](https://openlibrary.org/search?q=Cryptocurrencies+and+future+financial+crime)
+- [Cryptocurrency Crime and Anti-Money Laundering Report, February 2021](https://openlibrary.org/search?q=Cryptocurrency+Crime+and+Anti-Money+Laundering+Report%2C+February+2021)
+- [Cryptogenography - Anonymity without trust](https://openlibrary.org/search?q=Cryptogenography+-+Anonymity+without+trust)
+- [Cryptography from Anonymity](https://openlibrary.org/search?q=Cryptography+from+Anonymity)
+- [Cryptography](https://openlibrary.org/search?q=Cryptography)
+- [D1T2 - Skyper - Cracking the GSM A5_1 Encryption in Seconds](https://openlibrary.org/search?q=D1T2+-+Skyper+-+Cracking+the+GSM+A5_1+Encryption+in+Seconds)
+- [Defeating_Encryption](https://openlibrary.org/search?q=Defeating_Encryption)
+- [Everyday Cryptography Fundamental Principles and Applications](https://openlibrary.org/search?q=Everyday+Cryptography+Fundamental+Principles+and+Applications)
+- [Exploring the use of Zcash cryptocurrency for illicit or criminal purposes](https://openlibrary.org/search?q=Exploring+the+use+of+Zcash+cryptocurrency+for+illicit+or+criminal+purposes)
+- [FUNDAMENTALS OF_CRYPTOLOGY](https://openlibrary.org/search?q=FUNDAMENTALS+OF_CRYPTOLOGY)
+- [Fingerprinting Cryptographic Protocols with Key Exchange using an Entropy Measure](https://openlibrary.org/search?q=Fingerprinting+Cryptographic+Protocols+with+Key+Exchange+using+an+Entropy+Measure)
+- [Hands-On Cryptography with Python Leverage the Power of Python to Encrypt and Decrypt Data](https://openlibrary.org/search?q=Hands-On+Cryptography+with+Python+Leverage+the+Power+of+Python+to+Encrypt+and+Decrypt+Data)
+- [IntroToCrypto](https://openlibrary.org/search?q=IntroToCrypto)
+- [Malicious Cryptography Techniques for Unreversable](https://openlibrary.org/search?q=Malicious+Cryptography+Techniques+for+Unreversable)
+- [Malicious Cryptology and Mathematics 29700](https://openlibrary.org/search?q=Malicious+Cryptology+and+Mathematics+29700)
+- [Modern Cryptography](https://openlibrary.org/search?q=Modern+Cryptography)
+- [PublicandPrivateKeyCryptographyWhitePaper-Dec2014](https://openlibrary.org/search?q=PublicandPrivateKeyCryptographyWhitePaper-Dec2014)
+- [Quisquis - A New Design for Anonymous Cryptocurrencies](https://openlibrary.org/search?q=Quisquis+-+A+New+Design+for+Anonymous+Cryptocurrencies)
+- [Recommendations for Trust and Encryption in DER Interoperability Standards](https://openlibrary.org/search?q=Recommendations+for+Trust+and+Encryption+in+DER+Interoperability+Standards)
+- [SERIOUS CRYPTOGRAPHY - A Practical Introduction to Modern Encryption](https://openlibrary.org/search?q=SERIOUS+CRYPTOGRAPHY+-+A+Practical+Introduction+to+Modern+Encryption)
+- [Serious Cryptography A Practical Introduction to Modern Encryption](https://openlibrary.org/search?q=Serious+Cryptography+A+Practical+Introduction+to+Modern+Encryption)
+- [Serpent_ A Proposal for the_Advanced Encryption Standard](https://openlibrary.org/search?q=Serpent_+A+Proposal+for+the_Advanced+Encryption+Standard)
+- [Side Channel Cryptanalysis of Product Ciphers](https://openlibrary.org/search?q=Side+Channel+Cryptanalysis+of+Product+Ciphers)
+- [Understanding Cryptography](https://openlibrary.org/search?q=Understanding+Cryptography)
+- [Wiley.Malicious.Cryptography.Exposing.Cryptovirology.Feb.2004.ISBN.0764549758](https://openlibrary.org/search?q=Wiley.Malicious.Cryptography.Exposing.Cryptovirology.Feb.2004.ISBN.0764549758)

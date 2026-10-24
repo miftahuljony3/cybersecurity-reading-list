@@ -1,0 +1,40 @@
+# Python — Reading List
+
+32 titles. Each links to its catalogue entry on Open Library, where you can find legitimate copies (buy, borrow, or read where the author/publisher offers it free).
+
+[← Back to index](../README.md)
+
+---
+
+- [Applied Text Analysis with Python Enabling Language-Aware Data Products with Machine Learning](https://openlibrary.org/search?q=Applied+Text+Analysis+with+Python+Enabling+Language-Aware+Data+Products+with+Machine+Learning)
+- [Building Chatbots with Python Using Natural Language Processing and Machine Learning](https://openlibrary.org/search?q=Building+Chatbots+with+Python+Using+Natural+Language+Processing+and+Machine+Learning)
+- [Classic Shell Scripting](https://openlibrary.org/search?q=Classic+Shell+Scripting)
+- [Crime scripting A systematic review](https://openlibrary.org/search?q=Crime+scripting+A+systematic+review)
+- [Deep Learning with Python](https://openlibrary.org/search?q=Deep+Learning+with+Python)
+- [Flask Web Development Developing Web Applications with Python](https://openlibrary.org/search?q=Flask+Web+Development+Developing+Web+Applications+with+Python)
+- [High Performance Python](https://openlibrary.org/search?q=High+Performance+Python)
+- [JavaScript - The Definitive Guide](https://openlibrary.org/search?q=JavaScript+-+The+Definitive+Guide)
+- [JavaScript Succinctly](https://openlibrary.org/search?q=JavaScript+Succinctly)
+- [JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language (2020)-40147](https://openlibrary.org/search?q=JavaScript+The+Definitive+Guide+Master+the+Worlds+Most-Used+Programming+Language+%282020%29-40147)
+- [Learn Python 3 the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://openlibrary.org/search?q=Learn+Python+3+the+Hard+Way+A+Very+Simple+Introduction+to+the+Terrifyingly+Beautiful+World+of+Computers+and+Code)
+- [Learn Python the Hard Way](https://openlibrary.org/search?q=Learn+Python+the+Hard+Way)
+- [Monetizing Machine Learning Quickly Turn Python ML Ideas Into Web Applications on the Serverless Cloud](https://openlibrary.org/search?q=Monetizing+Machine+Learning+Quickly+Turn+Python+ML+Ideas+Into+Web+Applications+on+the+Serverless+Cloud)
+- [O'Reilly - Python Cookbook](https://openlibrary.org/search?q=O%27Reilly+-+Python+Cookbook)
+- [Practical Machine Learning and Image Processing For Facial Recognition, Object Detection, and Pattern Recognition Using Python](https://openlibrary.org/search?q=Practical+Machine+Learning+and+Image+Processing+For+Facial+Recognition%2C+Object+Detection%2C+and+Pattern+Recognition+Using+Python)
+- [Python Cookbook, 3rd Edition Recipes for Mastering Python 3](https://openlibrary.org/search?q=Python+Cookbook%2C+3rd+Edition+Recipes+for+Mastering+Python+3)
+- [Python Crash Course A Hands-On, Project-Based Introduction to Programming](https://openlibrary.org/search?q=Python+Crash+Course+A+Hands-On%2C+Project-Based+Introduction+to+Programming)
+- [Python Crash Course](https://openlibrary.org/search?q=Python+Crash+Course)
+- [Python Data Analytics Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language](https://openlibrary.org/search?q=Python+Data+Analytics+Data+Analysis+and+Science+Using+Pandas%2C+matplotlib%2C+and+the+Python+Programming+Language)
+- [Python Machine Learning A Step-by-Step Guide (2020)-40641](https://openlibrary.org/search?q=Python+Machine+Learning+A+Step-by-Step+Guide+%282020%29-40641)
+- [Python Pocket Reference, 5th Edition Python in Your Pocket](https://openlibrary.org/search?q=Python+Pocket+Reference%2C+5th+Edition+Python+in+Your+Pocket)
+- [Python True Book (2021)-40044](https://openlibrary.org/search?q=Python+True+Book+%282021%29-40044)
+- [Python WebApp Learn how to serve a Machine Learning Model (2020)-39924](https://openlibrary.org/search?q=Python+WebApp+Learn+how+to+serve+a+Machine+Learning+Model+%282020%29-39924)
+- [Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython (1)](https://openlibrary.org/search?q=Python+for+Data+Analysis+Data+Wrangling+with+Pandas%2C+NumPy%2C+and+IPython+%281%29)
+- [Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython](https://openlibrary.org/search?q=Python+for+Data+Analysis+Data+Wrangling+with+Pandas%2C+NumPy%2C+and+IPython)
+- [Python for Linguists (2020)-39939](https://openlibrary.org/search?q=Python+for+Linguists+%282020%29-39939)
+- [Serverless Applications with Node.js JavaScript (2020)-40151](https://openlibrary.org/search?q=Serverless+Applications+with+Node.js+JavaScript+%282020%29-40151)
+- [The Python Book The ultimate guide to coding with Python](https://openlibrary.org/search?q=The+Python+Book+The+ultimate+guide+to+coding+with+Python)
+- [The Unexpected Dangers of Dynamic JavaScript](https://openlibrary.org/search?q=The+Unexpected+Dangers+of+Dynamic+JavaScript)
+- [Tiny Python Projects-Manning Publications (2020)-40650](https://openlibrary.org/search?q=Tiny+Python+Projects-Manning+Publications+%282020%29-40650)
+- [Web Scraping with Python Collecting More Data from the Modern Web](https://openlibrary.org/search?q=Web+Scraping+with+Python+Collecting+More+Data+from+the+Modern+Web)
+- [Web Scraping with Python](https://openlibrary.org/search?q=Web+Scraping+with+Python)
